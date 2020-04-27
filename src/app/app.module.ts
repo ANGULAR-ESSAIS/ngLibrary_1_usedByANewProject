@@ -14,7 +14,7 @@ import { GeneralModule } from 'my-ng-lib';
     BrowserModule,
     AppRoutingModule,
 
-    GeneralModule // En l'occurence, UNIQUEMENT pour le composant ComboBoxComponent
+    GeneralModule // En l'occurence, import UNIQUEMENT pour le composant ComboBoxComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
