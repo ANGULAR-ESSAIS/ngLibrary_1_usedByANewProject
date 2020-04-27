@@ -17,7 +17,10 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "my-ng-lib": ["node_modules/@rick.info.dev/my-ng-lib-combo-box-and-classes-interfaces"]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
